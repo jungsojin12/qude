@@ -5,7 +5,7 @@
  ![qude Audio](https://i.imgur.com/GQXT7xk.jpeg)
 
 (
-    https://jungsojin12.github.io/Ystudio/
+   https://jungsojin12.github.io/qude/
 )
 
 ---
